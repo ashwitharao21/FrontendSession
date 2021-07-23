@@ -1,0 +1,12 @@
+<employee>
+    <name>Ashwitha</name>
+    <age>20</age>
+    <company>Aroha Group</company>
+</employee>
+
+{
+
+    name : 'Ashwitha',
+    age : 20,
+    company : 'Aroha',
+}
